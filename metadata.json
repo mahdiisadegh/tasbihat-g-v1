@@ -1,0 +1,6 @@
+{
+  "name": "تسبیحات حضرت زهرا",
+  "description": "برنامه معنوی و آرامش‌بخش تسبیحات حضرت زهرا (س) با طراحی مینیمال، صوت ذکرها و موسیقی پس‌زمینه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
